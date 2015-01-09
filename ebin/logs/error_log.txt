@@ -1,0 +1,12 @@
+#debug 2015-1-9 16:15:54[mod_guild:48] init: loading guild....
+
+#debug 2015-1-9 16:15:54[lib_guild:229] load_all_guild: [0] guild loaded
+
+#debug 2015-1-9 16:15:54[mod_pet:37] init: loading base_pet....
+
+#debug 2015-1-9 16:15:54[lib_pet:64] load_base_pet: SQL=[select goods_id, goods_name, name, probability from base_pet]
+
+#debug 2015-1-9 16:15:54[lib_pet:67] load_base_pet: [20] base_pet loaded
+
+#info 2015-1-9 16:15:54[timer_frame:35] Starting [timer_frame]...
+
